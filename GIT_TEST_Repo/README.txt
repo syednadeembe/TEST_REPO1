@@ -1,1 +1,1 @@
-This is a README file version 1.0
+This is a README file version 1.2
